@@ -2,9 +2,9 @@
 <h3 align="center">A passionate software developer ✨</h3>
 
 
-- 💻 I've been a volunteer intern at Pinsoft since December.
+- 💻 I've been a software developer at Pinsoft since April.
 
-- 🌱 Currently, I'm focusing on learning **Software Architecture, System Modeling, and Formal Methods**
+- 🌱 Currently, I'm focusing on learning Object Detection, Pattern Recognition.
 
 - ✨ I have a knack for learning things quickly, which I attribute to my background as a former biology teacher with over 7 years of experience. 👩‍🏫
 
