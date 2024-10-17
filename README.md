@@ -4,7 +4,7 @@
 
 - 💻 I've been a software developer at Pinsoft since April.
 
-- 🌱 Currently, I'm focusing on learning Object Detection, Pattern Recognition.
+- 🌱 Currently, I'm focusing on learning design patterns and best practices in software engineering.
 
 - ✨ I have a knack for learning things quickly, which I attribute to my background as a former biology teacher with over 7 years of experience. 👩‍🏫
 
